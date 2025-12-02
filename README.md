@@ -58,3 +58,17 @@ ts-advice-app-demo/
 ## 📄 ライセンス
 
 MIT License
+
+---
+
+##  📸 アプリ画面
+
+## 📸 アプリ画面
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ec63b0b-04f7-4e35-a57e-30a8fbe74f06" alt="アプリ画面のスクリーンショット" width="80%">
+</p>
+
+
+
+
