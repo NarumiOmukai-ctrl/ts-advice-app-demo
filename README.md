@@ -63,11 +63,10 @@ MIT License
 
 ##  📸 アプリ画面
 
-## 📸 アプリ画面
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0ec63b0b-04f7-4e35-a57e-30a8fbe74f06" alt="アプリ画面のスクリーンショット" width="80%">
+  <img width="966" height="616" width="80%" alt="スクリーンショット 2025-12-02 154301" src="https://github.com/user-attachments/assets/51c01c4a-6a80-4375-b277-7b2bc2182601" />
 </p>
+
 
 
 
