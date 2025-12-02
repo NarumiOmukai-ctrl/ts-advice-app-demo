@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <title>ひと言アドバイスアプリ（TypeScript × API）</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1>ひと言アドバイスアプリ</h1>
+    <p>TypeScript で公開API（Advice Slip API）から「今日のひと言アドバイス」を取得します。</p>
+  </header>
+
+  <main class="app-main">
+    <section class="control-card">
+      <h2>アドバイスを取得</h2>
+      <p>ボタンを押すとランダムなアドバイスを1件取得します。</p>
+
+      <button id="fetchButton">アドバイスを取得する</button>
+
+      <p id="status" class="status-message"></p>
+    </section>
+
+    <section id="resultCard" class="result-card hidden">
+      <h2 id="adviceTitle">今日のひと言アドバイス</h2>
+      <p id="adviceText"></p>
+      <p id="adviceId"></p>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <p>Technocrats Japan 面接用 デモ（TypeScript / Fetch API / 公開API連携）</p>
+  </footer>
+
+  <!-- 実際にブラウザで動かすのはコンパイル済みの main.js -->
+  <script src="./main.js"></script>
+</body>
+</html>
